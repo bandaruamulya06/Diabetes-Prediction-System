@@ -1,0 +1,11 @@
+flask 
+tensorflow 
+keras 
+numpy 
+pandas 
+scikit-learn 
+shap 
+matplotlib 
+seaborn 
+joblib 
+reportlab
